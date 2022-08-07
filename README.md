@@ -3,6 +3,9 @@
 Resources:
 new_201908-citibike-tripdata, 201908-citibike-tripdata
 
+[Module 14 Tableau] (https://public.tableau.com/views/Module14-/Historia1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Module 14 Challenge Tableau] (https://public.tableau.com/views/Module14-Challenge_16598459433340/Historia1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Software:
 Python, Jupyter notebook, Tableau
 
